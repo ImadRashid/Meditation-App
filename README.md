@@ -8,9 +8,11 @@ This is a 30 day Flutter coding challenge to develop 30 applications.
 <img src="./3.PNG"
 raw=true
 style=“margin-right: 10px;”
->
+/>
 
-<img src="./4.PNG">
+<img src="./4.PNG"
+raw=true
+/>
 
 
 ## Getting Started With Flutter
