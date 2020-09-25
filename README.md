@@ -2,7 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+This is a 30 day Flutter coding challenge to develop 30 applications.
+
+
+
+
+
+
+## Getting Started With Flutter
 
 This project is a starting point for a Flutter application.
 
